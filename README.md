@@ -1,9 +1,9 @@
-![not-app](https://user-images.githubusercontent.com/84740306/165392950-d7853fca-2b47-4cf0-b6c7-103076d7dca6.PNG)
+
 # Notepad-App
 
  # Description
   This is an application that uses JavaScript, Express.js and node.js to create a dynamic platform that allows for users to create and edit notes in an easy to use fashion. 
-
+![not-app](https://user-images.githubusercontent.com/84740306/165392950-d7853fca-2b47-4cf0-b6c7-103076d7dca6.PNG)
   ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
