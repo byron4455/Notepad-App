@@ -1,7 +1,7 @@
 # Notepad-App
 
  # Description
-  ${data.description}
+  This is an application that uses JavaScript, Express.js and node.js to create a dynamic platform that allows for users to create and edit notes in an easy to use fashion. 
 
   ## Table of Contents
 - [Installation](#installation)
